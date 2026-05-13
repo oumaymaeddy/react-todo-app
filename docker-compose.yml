@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+
+  # ⚙️ BACKEND
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend/todos.db:/app/todos.db
+
+  # 🌐 FRONTEND
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
