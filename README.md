@@ -1,8 +1,39 @@
-# React + Vite
+# ✅ React Todo App with Docker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Todo application built with React and containerized with Docker for easy deployment.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ➕ Add new tasks
+- ✅ Mark tasks as complete
+- 🗑️ Delete tasks
+- 🐳 Fully containerized with Docker
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| React | Frontend UI |
+| JavaScript (ES6+) | App logic |
+| Docker | Containerization |
+| Docker Compose | Multi-container setup |
+
+## 🐳 Run with Docker
+
+```bash
+docker-compose up --build
+```
+
+App runs at: `http://localhost:3000`
+
+## ⚙️ Run without Docker
+
+```bash
+npm install
+npm start
+```
+
+## 👩‍💻 Author
+
+**Oumayma [Nom]**
+- GitHub: [@oumaymaeddy](https://github.com/oumaymaeddy)
