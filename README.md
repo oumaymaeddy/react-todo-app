@@ -25,6 +25,8 @@ déployée avec Docker et Kubernetes.
 docker compose up --build
 ```
 Accès : http://localhost:5173
+<img width="810" height="533" alt="image" src="https://github.com/user-attachments/assets/c420be46-6104-43ba-9318-62d65d829e88" />
+
 
 ## ⎈ Déployer sur Kubernetes
 
