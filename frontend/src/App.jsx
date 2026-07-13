@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Todo List avec SQL</h1>
+      <h1>Task Tracker ⭐⭐⭐</h1>
 
       <div className="form">
         <input
