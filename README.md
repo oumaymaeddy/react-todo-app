@@ -25,7 +25,6 @@ déployée avec Docker et Kubernetes.
 docker compose up --build
 ```
 Accès : http://localhost:5173
-<img width="810" height="533" alt="image" src="https://github.com/user-attachments/assets/c420be46-6104-43ba-9318-62d65d829e88" />
 
 
 ## ⎈ Déployer sur Kubernetes
@@ -45,3 +44,25 @@ Chaque `git push` sur `main` :
 
 - Frontend : `oumaymaeddy/todo-frontend`
 - Backend  : `oumaymaeddy/todo-backend`
+
+
+screenshots:
+
+<img width="966" height="1016" alt="kubernetes7" src="https://github.com/user-attachments/assets/5c273b5e-8e3b-41c6-8283-17ac2ea2e163" />
+
+<img width="946" height="930" alt="kubernetes 1 - Copy" src="https://github.com/user-attachments/assets/1a70f962-51d6-4d49-a9c7-7525aecf82b5" />
+
+<img width="942" height="935" alt="kubernetes 2 - Copy" src="https://github.com/user-attachments/assets/82e1c994-69ac-4ca9-be53-9e1dbdc224c8" />
+
+<img width="947" height="875" alt="kubernetes3" src="https://github.com/user-attachments/assets/0b1ccbeb-bbd6-4c1d-b588-3dea819b25aa" />
+
+<img width="1897" height="1018" alt="kubernetes4" src="https://github.com/user-attachments/assets/43029d78-3c41-4e32-9040-c1aa0fe52abc" />
+
+<img width="1913" height="687" alt="kubernetes5" src="https://github.com/user-attachments/assets/41c27626-37ec-440e-a67e-14608d016420" />
+
+<img width="1911" height="832" alt="kubernetes6" src="https://github.com/user-attachments/assets/d9499b75-ff1d-4cf6-8327-614e5f10be5b" />
+
+
+
+
+
